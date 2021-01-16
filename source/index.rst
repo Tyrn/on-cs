@@ -11,11 +11,7 @@ Welcome to Vader Developers' Guide!
    :caption: Contents:
    :glob:
 
-   tools/_tools
-   docs/_docs
-   frontend/_frontend
-   backend/_backend
-   dance/_dance
+   embedded_rust/_embedded_rust
    tmp/*
 
 Indices and tables

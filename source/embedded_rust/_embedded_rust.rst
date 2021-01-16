@@ -1,5 +1,5 @@
-Notes on tools
-**************
+Embedded Rust
+*************
 
 .. toctree::
    :maxdepth: 2
