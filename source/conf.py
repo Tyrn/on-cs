@@ -18,9 +18,9 @@ import sphinx_rtd_theme
 
 # -- Project information -----------------------------------------------------
 
-project = "Vader Developers' Guide"
-copyright = "2020, Vader Foundation"
-author = "Vader Foundation"
+project = "Notes on Linux administration and development"
+copyright = "WTFPL"
+author = "Tyrn"
 
 # The full version, including alpha/beta/rc tags
 release = "0.0.1"

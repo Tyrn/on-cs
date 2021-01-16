@@ -1,5 +1,5 @@
-Vader Developers' Guide
-***********************
+Notes on Linux administration and development
+*********************************************
 
 Sphinx assets
 ==============
